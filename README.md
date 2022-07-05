@@ -14,7 +14,7 @@ Olá 😄💻 meu nome é Josué tenho 20 anos, sou um apaixonado por aprender e
   
 Atualmente Curso Análise e Desenvolvimento de Sistemas no IFRS - Rio Grande
 
-No momento presente estou estudando a linguagem JavaScript com foco em completar a tríade Web (HTML5, CSS3, JAVASCRIPT ES6)💻
+No momento presente estou estudando a linguagem JavaScript com foco em completar a tríade Web (HTML5, CSS3, JAVASCRIPT ES6)
 
 Futuramente pretendo seguir para a área de Backend.
 ## Skills
