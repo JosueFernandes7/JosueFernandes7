@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**JosueFernandes7/JosueFernandes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá 😄💻 meu nome é Josué tenho 20 anos, sou um apaixonado por aprender e resolver problemas.
 
-Here are some ideas to get you started:
+Objetivo Atual =>ser um Desenvolvedor FullStack.
+  
+  Novas tecnologias, inovações e desafios sempre estão em meus planos diários de aprendizagem, tanto para o desenvolvimento pessoal como também profissional, sempre buscando desafios cada vez maiores, pois sigo o dilema de que o eu de ontem tem que aprender algo com o eu de hoje.
+  
+Atualmente Curso Análise e Desenvolvimento de Sistemas no IFRS - Rio Grande
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No momento presente estou estudando a linguagem JavaScript com foco em completar a tríade Web (HTML5, CSS3, JAVASCRIPT ES6)💻
+
+Futuramente pretendo seguir para a área de Backend.
+
+https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](facebook.com)
+
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](josue7mf@hotmail.com)
