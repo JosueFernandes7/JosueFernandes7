@@ -12,7 +12,6 @@ No momento presente estou estudando a linguagem JavaScript com foco em completar
 
 Futuramente pretendo seguir para a área de Backend.
 
-https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](facebook.com)
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](josue7mf@hotmail.com)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josue7mf@hotmail.com)
