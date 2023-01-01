@@ -1,7 +1,6 @@
 ### Opa, Beleza ? Me chamo Josué !! 😄💻
 - Estudante de Análise e Desenvolvimento de Sistemas - IFRS
-- Atualmente estudando JavaScript, Java
-- Futuro BackEnd
+- Atualmente estudando JavaScript, e ReactJS
 
 <div align="center">
   <a href="https://github.com/JosueFernandes7">
