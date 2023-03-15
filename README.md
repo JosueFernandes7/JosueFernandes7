@@ -34,7 +34,7 @@
   <a href = "mailto:josue7mf@hotmail.com"><img height="26" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /a>
   <a href = "https://discord.com/users/Josu%C3%A9#9553"><img height="26" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /a>
   <a href = "https://www.instagram.com/josue.mfernandes7/"><img height="26" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /a>
-  <a href = "https://www.linkedin.com/in/josu%C3%A9-fernandes-4b440b220/"><img height="26" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /a>
+  <a href = "https://www.linkedin.com/in/josu%C3%A9-mendon%C3%A7a-dev77/"><img height="26" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /a>
   
 </div><br>
 
