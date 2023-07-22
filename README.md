@@ -1,6 +1,6 @@
 ### Opa, Beleza ? Me chamo Josué !! 😄💻
 - Estudante de Análise e Desenvolvimento de Sistemas - IFRS
-- Atualmente estudando JavaScript, e ReactJS
+- Atualmente estudando C# .net
 
 <div align="center">
   <a href="https://github.com/JosueFernandes7">
@@ -12,15 +12,27 @@
 <div style="display: inline-block">
   <img align="center" alt="Josue-React" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <!-- <img align="center" alt="Josue-React" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">-->
+
   
   <img align="center" alt="Josue-Java" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Josue-Js" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Josue-Js" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Josue-Js" height="28" width="42" src="https://icongr.am/devicon/express-original.svg?size=148&color=00f030" />
   <img align="center" alt="Josue-Js" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Josue-React" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Josue-HTML" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Josue-CSS" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Josue-CSS" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   <img align="center" alt="Josue-CSS" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>        
-  <img align="center" alt="Josue-React" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <!--<img align="center" alt="Josue-Git" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">-->
+  <img align="center" alt="Josue-Js" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
+  <img align="center" alt="Josue-Git" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Josue-Js" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="Josue-Js" height="28" width="42" src="https://icongr.am/devicon/docker-original.svg?size=148&color=00f030" />
+  <img align="center" alt="Josue-Js" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+  <img align="center" alt="Josue-Js" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align="center" alt="Josue-Js" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Josue-Js" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  
   
 </div>
  <!--
