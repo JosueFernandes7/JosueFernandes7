@@ -1,6 +1,5 @@
 ### Opa, Beleza ? Me chamo Josué !! 😄💻
 - Estudante de Análise e Desenvolvimento de Sistemas - IFRS
-/*- Atualmente estudando C# .net*/
 
 <div align="center">
   <a href="https://github.com/JosueFernandes7">
