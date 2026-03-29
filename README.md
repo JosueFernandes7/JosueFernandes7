@@ -2,13 +2,6 @@
 🎓 Formado de Análise e Desenvolvimento de Sistemas no IFRS  
 🚀 Entusiasta de Inteligência Artificial, Cloud Computing e Desenvolvimento Web 
 
-
-<div align="center">
-  <a href="https://github.com/JosueFernandes7">
-  <img  height="170em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueFernandes7&layout=compact&langs_count=7&theme=gruvbox"/>
-</div><br>
-
-
 ## ⚙️ Tecnologias
 
 **Linguagens:**  
