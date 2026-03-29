@@ -1,5 +1,5 @@
 ### Olá! Sou o Josué Fernandes 👋💻  
-🎓 Formando de Análise e Desenvolvimento de Sistemas no IFRS  
+🎓 Formado de Análise e Desenvolvimento de Sistemas no IFRS  
 🚀 Entusiasta de Inteligência Artificial, Cloud Computing e Desenvolvimento Web 
 
 
